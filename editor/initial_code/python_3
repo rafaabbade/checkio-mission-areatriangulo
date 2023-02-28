@@ -1,4 +1,4 @@
-def area_triangulo(a,b):
+def area_triangulo(b,h):
     # escreva aqui seu código
     return None
 
